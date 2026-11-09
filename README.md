@@ -22,15 +22,15 @@ Fastnar du: skriv ner exakt var och vad du försökt, och ta det först i nästa
 
 ## Uppgiften steg för steg
 
-### Steg 1. Kontrollera kopplingen
+### Steg 1. Kontrollera kopplingen √
 
 I terminalen: `git remote -v`. Du ska se `origin` med adressen till din fork på GitHub. Det kommer från att du klonade den.
 
-### Steg 2. Kontrollera historiken på GitHub
+### Steg 2. Kontrollera historiken på GitHub √
 
 Öppna din fork på GitHub och klicka *Commits*. Dina commits sedan dag 1 ska synas. Det är samma `git push` som du kört hela tiden. Första gången kan GitHub ha bett dig logga in, och det behövs normalt inte igen.
 
-### Steg 3. Gör en commit och push i ett svep
+### Steg 3. Gör en commit och push i ett svep √
 
 Ändra något litet, kör `git add .`, `git commit -m "..."` och `git push`. Verifiera på GitHub. Du har nu den vanliga arbetsloopen: ändra, add, commit, push.
 
