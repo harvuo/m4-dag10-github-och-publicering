@@ -34,11 +34,11 @@ I terminalen: `git remote -v`. Du ska se `origin` med adressen till din fork på
 
 Ändra något litet, kör `git add .`, `git commit -m "..."` och `git push`. Verifiera på GitHub. Du har nu den vanliga arbetsloopen: ändra, add, commit, push.
 
-### Steg 4. Slå på GitHub Pages
+### Steg 4. Slå på GitHub Pages √
 
 På GitHub, i din fork: *Settings → Pages*. Under *Build and deployment*: Source = *Deploy from a branch*, Branch = `main`, mapp `/ (root)`. Spara. Vänta 1–2 minuter.
 
-### Steg 5. Öppna din sida
+### Steg 5. Öppna din sida √
 
 Överst på Pages-inställningen visas adressen. Öppna den. Fungerar bilderna och CSS:en? Annars: kontrollera att sökvägarna är relativa (`css/base.css`, inte `/css/base.css`).
 
